@@ -1,4 +1,5 @@
 # ayaan-ghost-financial-ghostfinancial.io-algo
+ayaan ghostfinancial.io ghost financial ghost-financial 
 this is a leak of ghostfinancial.io private algo that I have gotten btw key things so people will find it - ghostfinancial ghostfinancials ghost financial ghost financials
  btw he is told in the discord like this is a virus etc because he is scared that people will realise that it is legit and all of the other stuff because I leaked it anyway I did leak the source code that you can cleanly check with chatgpt and cleanly see that there is no voiruses and its clean and even check manually and export the trading logic into the other algo anyway ITS A SOURCE CODE THAT YOU CAN CLEARLY CHECK FOR VIRUSES AND SEE THAT ITS CLEAN no matter what ayaan says because you can clearly see how it works and extract the trading logic because anyway he is shitting himself as can be seen on a screenshots and he overally scared for his bussiness model anyway I did leak the code and its free and you can clearly see trading logic how it works etc no viruses or anything 
 
