@@ -1,4 +1,7 @@
 # ayaan-ghost-financial-ghostfinancial.io-algo
+
+READ MY NOTES BEFORE USAGE
+
 ayaan ghostfinancial.io ghost financial ghost-financial 
 https://ghostfinancial.io/ - I MADE LEAK FROM FROM THEIR PRIVATE SHI
 this is a leak of ghostfinancial.io private algo that I have gotten btw key things so people will find it - ghostfinancial ghostfinancials ghost financial ghost financials
