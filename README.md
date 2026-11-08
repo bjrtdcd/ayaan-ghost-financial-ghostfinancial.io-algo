@@ -18,6 +18,7 @@ IT HAS ALL THE ALGOS WHAT IS STANDART, ENCHANED, ULTIMATE AND THE ONE WHICH IS N
 
 by the way its funny what shit he is telling because you cannmot just simply send a code to a prop firm and ask it to ban it because firstly all prop firms are too big and they would give a shit about you and don';t care abt you and don't even run the code itself and yeah and anyway selling the algo of any kind to others breaks prop firms rules anyway because of copy trading and the other thing he will not remake the algo's because firstly he been spending like months to make it and so he would have to remove that product from already existing customers so kind of sonion and depressing to see that from him that he been originally trying to bullshit everyone there was a virus later after eveyrone saw there isn't one and its the real strategy what I did leak and later he tries ti bullshit and brainwash people witht hat when prop firms will give a fck about it and don't even look on the code this is funny how he tries to save his already failed bussiness model
 
+
 <img width="677" height="496" alt="image" src="https://github.com/user-attachments/assets/543c6372-9fc1-440a-a1d1-8179df812a76" />
 <img width="1006" height="742" alt="image" src="https://github.com/user-attachments/assets/eb7cf2d7-97da-421d-85fa-fb5e589eaf3c" />
 
@@ -29,3 +30,6 @@ by the way its funny what shit he is telling because you cannmot just simply sen
 <img width="1231" height="1006" alt="image" src="https://github.com/user-attachments/assets/fb2ebcae-4325-4b61-8f3b-a89a56799806" />
 <img width="1024" height="801" alt="image" src="https://github.com/user-attachments/assets/019274e5-dee5-40ca-a380-764018841249" />
 <img width="1024" height="802" alt="image" src="https://github.com/user-attachments/assets/c978c70c-0024-44ef-b567-076a9114bfcd" />
+
+
+Ghostfinancials.io violates the Acceptable Use Policy set forth in our official Acceptable Use Policy and DMCA Guidelines. The website is sharing content related to intellectual property leaks and proprietary financial information. We do not allow customers to store or distribute any copyrighted code, trade secrets or unauthorised assets. Therefore, any stolen data, proprietary trading algorithms or corporate databases would constitute a violation of copyright laws. We do have the right to suspend any account we believe to be non-compliant even if they seem to be in compliance at first. This includes any site receiving valid DMCA requests.
