@@ -16,6 +16,12 @@ RUN FOR NINJATRADER VERSION WITH LICECNING REMOVED WHICH IS OCTVERSION2 - all li
 
 IT HAS ALL THE ALGOS WHAT IS STANDART, ENCHANED, ULTIMATE AND THE ONE WHICH IS NOT FOR SALE WHAT IS PARGON HIS PERSONAL ONE
 
+by the way its funny what shit he is telling because you cannmot just simply send a code to a prop firm and ask it to ban it because firstly all prop firms are too big and they would give a shit about you and don';t care abt you and don't even run the code itself and yeah and anyway selling the algo of any kind to others breaks prop firms rules anyway because of copy trading and the other thing he will not remake the algo's because firstly he been spending like months to make it and so he would have to remove that product from already existing customers so kind of sonion and depressing to see that from him that he been originally trying to bullshit everyone there was a virus later after eveyrone saw there isn't one and its the real strategy what I did leak and later he tries ti bullshit and brainwash people witht hat when prop firms will give a fck about it and don't even look on the code this is funny how he tries to save his already failed bussiness model
+
+<img width="677" height="496" alt="image" src="https://github.com/user-attachments/assets/543c6372-9fc1-440a-a1d1-8179df812a76" />
+<img width="1006" height="742" alt="image" src="https://github.com/user-attachments/assets/eb7cf2d7-97da-421d-85fa-fb5e589eaf3c" />
+
+
  Black Admin Made it who is me - if you want to contact me then my telegram @comander16
  <img width="1211" height="202" alt="image" src="https://github.com/user-attachments/assets/7ffcd5b9-61d4-4b90-85fe-8ecd0a22e0f8" />
 <img width="786" height="142" alt="image" src="https://github.com/user-attachments/assets/8cbb755e-9f82-4531-bce6-280584fd8e18" />
