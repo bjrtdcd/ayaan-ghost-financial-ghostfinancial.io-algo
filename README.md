@@ -13,7 +13,7 @@ RUN FOR NINJATRADER VERSION WITH LICECNING REMOVED WHICH IS OCTVERSION2 - all li
 
 IT HAS ALL THE ALGOS WHAT IS STANDART, ENCHANED, ULTIMATE AND THE ONE WHICH IS NOT FOR SALE WHAT IS PARGON HIS PERSONAL ONE
 
- Black Admin Made it who is me
+ Black Admin Made it who is me - if you want to contact me then my telegram @comander16
  <img width="1211" height="202" alt="image" src="https://github.com/user-attachments/assets/7ffcd5b9-61d4-4b90-85fe-8ecd0a22e0f8" />
 <img width="786" height="142" alt="image" src="https://github.com/user-attachments/assets/8cbb755e-9f82-4531-bce6-280584fd8e18" />
 <img width="776" height="759" alt="image" src="https://github.com/user-attachments/assets/2dde746d-6949-4993-b816-4982f0de99b0" />
