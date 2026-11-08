@@ -1,12 +1,17 @@
 # ayaan-ghost-financial-ghostfinancial.io-algo
 ayaan ghostfinancial.io ghost financial ghost-financial 
+https://ghostfinancial.io/ - I MADE LEAK FROM FROM THEIR PRIVATE SHI
 this is a leak of ghostfinancial.io private algo that I have gotten btw key things so people will find it - ghostfinancial ghostfinancials ghost financial ghost financials
  btw he is told in the discord like this is a virus etc because he is scared that people will realise that it is legit and all of the other stuff because I leaked it anyway I did leak the source code that you can cleanly check with chatgpt and cleanly see that there is no voiruses and its clean and even check manually and export the trading logic into the other algo anyway ITS A SOURCE CODE THAT YOU CAN CLEARLY CHECK FOR VIRUSES AND SEE THAT ITS CLEAN no matter what ayaan says because you can clearly see how it works and extract the trading logic because anyway he is shitting himself as can be seen on a screenshots and he overally scared for his bussiness model anyway I did leak the code and its free and you can clearly see trading logic how it works etc no viruses or anything 
 
- btw there is 2 versions where is licencing and where its removed a licencing he used to extract money from it and overally give licencing to the strategy and its just missing some ddls to that gives licencing but ignore that version and second version is where I did remove the licencing and where is just a clean logic of how everyhting works etc and clean trading logic without any shit also to run the backtests in ninjatrader you need to use tick data I mean sewt data on tick and for that data set tick value on 1 
+ btw there is 2 versions where is licencing and where its removed a licencing he used to extract money though monthly subscriptions from it and overally give licencing to the strategy and its just missing some ddls to that gives licencing but ignore that version and second version is where I did remove the licencing and where is just a clean logic of how everyhting works etc and clean trading logic without any shit also to run the backtests in ninjatrader you need to use tick data I mean sewt data on tick and for that data set tick value on 1 
 
  its a clean source code that I made it free and NOBODY should be resselling it after I leaked it anyway I did leak it and so have fun using it or studying it also study the logic and everything of it what is provided and do not listen for people without any external proof and in there I am just giving a source code and persuading you to check it with ai so have fun
+I made the leak and yeah just donm't listen to bul shitters and have your invidiaul opinion by looking and checking everything with ai
 
+RUN FOR NINJATRADER VERSION WITH LICECNING REMOVED WHICH IS OCTVERSION2 - all licensing removed AND IF YOU BELIVE THERE IS A VIRUS OR BACKDOOR JUST CHECK A SOURCE CODE THOUGH AI ITS CLEAN AND THERE IS A CLEAN TRADING LOGIC DESCRIBED THERE ITS CLEAN AND ANALYSE IT FOR YOURSELF AND YOU CAN COMPAE THE BACKTESTS FROM HIS WEBSITE AND WHAT YOU WILL HAVE YOU WILL SEE THAT ITS WORKING BTW FOR BACKTESTING SET ASSET TO MNQ OR NQ AND FOR DATA CHOOSE TICKS AND SET A VALUE FOR TICKS 1 AND IF YOU WANT TO RUN IT LIVE FOR PROP FIRMS CHOOSE THAT IT WILL GET DATA ON EACH TICK NOT THE LAST BAR OR ANYTHING LIKE THAT EXACTLY LAST TICK IF YOU WANT TO RUN IT LIVE AND I AM WRITING THIS IN CAPS SO YOU WILL SEE HE NOTICE AND KNOW HOW TO USE IT
+
+IT HAS ALL THE ALGOS WHAT IS STANDART, ENCHANED, ULTIMATE AND THE ONE WHICH IS NOT FOR SALE WHAT IS PARGON HIS PERSONAL ONE
 
  Black Admin Made it who is me
  <img width="1211" height="202" alt="image" src="https://github.com/user-attachments/assets/7ffcd5b9-61d4-4b90-85fe-8ecd0a22e0f8" />
